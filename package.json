@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "FabienCruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
